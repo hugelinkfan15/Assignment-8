@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 00000000000000000000000000000000
+  productGUID: 437fcaf05d1bc0a429006b9ae5b7867a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -636,7 +636,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: f3f6e9ce-c22f-44c4-8576-6e2416f80e3c
   framebufferDepthMemorylessMode: 0
-  projectName: 
+  projectName: Challenge 8
   organizationId: hugelinkfan15
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
